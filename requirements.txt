@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+openai
+sentence-transformers
+numpy
+tiktoken
+reportlab
